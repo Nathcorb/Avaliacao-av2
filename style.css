@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: azure;
+}
+p{
+    font: 60px;
+    text-align: center;
+    color: aqua;
+}
+img{
+    width: 300px;
+    margin-left: 800px;
+}
